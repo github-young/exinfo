@@ -13,3 +13,7 @@ A python script to extract and plot EXIF info from RAW images
 - Modify the path to your RAW images in both python files.
 - Change the `tags` and labels, plotting ranges if necessary
 - Run `exinfo.py` first to get the EXIF data, and then `plot.py` to plot them.
+
+## Example
+
+![FocalLength](https://github.com/user-attachments/assets/20c9e167-88d5-4a8b-8158-8dcef83ec783)
